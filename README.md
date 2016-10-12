@@ -2,7 +2,9 @@
 Host the Tor software with the waterfilling branch, a prototype of the
 waterfilling technique implemented in Tor.
 
-This code source has been used to run tests in shadow.
+This source code  has been used to run tests in shadow for the research
+presented in paper '' Waterfilling: Balancing the Tor network with
+maximum diversity ''.
 
 To look at the changes (git diff from tor-0.2.6.7):
 
