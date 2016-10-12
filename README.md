@@ -1,5 +1,6 @@
 # waterfilling
-Host the Tor software with the waterfilling branch
+Host the Tor software with the waterfilling branch, a prototype of the
+waterfilling technique implemented in Tor.
 
 This code source has been used to run tests in shadow.
 
@@ -17,3 +18,5 @@ To look at the changes (git diff from tor-0.2.6.7):
 47 7 src/or/routerlist.c  
 53 0 src/or/routerparse.c  
 201 3 src/test/test_dir.c  
+
+
