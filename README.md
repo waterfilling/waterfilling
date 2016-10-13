@@ -21,4 +21,8 @@ To look at the changes (git diff from tor-0.2.6.7):
 53 0 src/or/routerparse.c  
 201 3 src/test/test_dir.c  
 
+To test in Shadow, compile the source code as usual and enable Waterfilling on directory servers by modifying
+their torrrc file (add UseWaterfilling 1 and OptWaterfilling 1).  
+Add also UseWaterfilling 1 on clients' torrc.
+
 
